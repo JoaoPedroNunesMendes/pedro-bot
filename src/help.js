@@ -1,0 +1,53 @@
+const help = (prefix) => {
+	return `
+🇧🇷ᴘᴇᴅʀᴏ ʙʀᴀʙᴏ🇧🇷  kibador sai fora
+*para mais informações vai ate a linha final*
+*Pra add no gruoo 5.00 reais*
+
+
+╔═══════ *figurinhas*✅════════╗
+🖤.Comando .sticker ou .stiker
+
+💚serve pra:converter imagens gifs videos em adesivo
+
+▃▅▆█ 웃 *memes* 웃 █▆▅
+
+🤍.meme
+❤️Serve pra:vem memes
+
+🤍.loli
+🤍ja saber oque vem=)
+
+╔═════ ▓▓ ࿇  *Grupos*  ࿇ ▓▓ ═════╗
+💙.Comando linkgroup
+Uso: enviar o link do grupo *mais vc precisa ser adm*
+
+💜.marcar
+Uso:marca todo mundo *obs:precisa vc ser adm*
+
+🤎.comando .add 55xxxxxx
+Uso:adicionar membro no grupo se ele deixa *e o bot precisa ser adm*
+
+💙.comando .kick
+Uso:remove pessoas basta marcar @membro *bot precisa ser adm*
+
+💛.comando .promote e o @membro
+Uso:promove a pessoa a adm 
+
+💚.comando .demote e o @membro
+Uso:coloca um adm a adm comum
+
+💔.comando .gtts pt 
+Uso:faz qualquer frase com a voz do traduto
+
+*Canal:https://youtube.com/channel/UCn8jCNLBxbrki2DD5hF32Lg*
+*Vou liberar minha git quando batemos 100 subs*
+*Estou atualizando todo dia ent aguarde para comandos novos*
+}
+
+
+
+
+
+
+
